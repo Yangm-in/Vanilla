@@ -5,3 +5,8 @@ body {
 .hidden {
   display:none;
 }
+
+#center {
+  text-align: center;
+  margin-top:  300px;
+}
